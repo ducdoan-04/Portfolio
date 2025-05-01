@@ -365,7 +365,7 @@ export default function Home() {
               </a>
             </div>
             <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
-              © {new Date().getFullYear()} Đức Đoan
+              © {new Date().getFullYear()} ducdoan.04
             </p>
           </div>
         </aside>
